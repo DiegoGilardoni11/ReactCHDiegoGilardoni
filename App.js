@@ -3,7 +3,7 @@ import Navbar from './Componentes/Navbar';
 import ItemListContainer from './Componentes/ItemListContainer';
 
 function App() {
-  const brand = "Mi Tienda";
+  const brand = "Itento de E-Commerce";
   const [categories, setCategories] = useState([
     { name: "Inicio", content: "¡Bienvenido a nuestra tienda en línea!" },
     { name: "Productos", content: "Aquí tenemos una selección de nuestros productos." },
